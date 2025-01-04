@@ -15,7 +15,7 @@ body {
 }
 .bg1{
     z-index: 8;
-    background-image: url(../assets/img/1.jpg);
+    background-image: url(/assets/img/1.jpg);
     background-size: cover;
     background-repeat: no-repeat;
     background-position: center;
@@ -28,7 +28,7 @@ body {
 }
 .bg2{
     z-index: -5;
-    background-image: url(../assets/img/2.jpg);
+    background-image: url(/assets/img/2.jpg);
     background-size: cover;
     background-repeat: no-repeat;
     background-position: center;
@@ -38,7 +38,7 @@ body {
 }
 .bg3{
     z-index: -5;
-    background-image: url(../assets/img/3.jpg);
+    background-image: url(/assets/img/3.jpg);
     background-size: cover;
     background-repeat: no-repeat;
     background-position: center;
